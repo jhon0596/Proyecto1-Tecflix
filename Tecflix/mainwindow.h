@@ -6,7 +6,7 @@
 namespace Ui {
 class MainWindow;
 }
-
+class  QStandardItemModel;
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
